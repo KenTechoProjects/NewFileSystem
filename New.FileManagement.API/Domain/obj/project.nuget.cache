@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6GtBs57L9AZh42I+lpSyPMXMtKx049eCuAX5fAm9Zyj9hHyqhhmMV7y5hyWShMOsMseComrcRBM4UEJ6vnDLgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kenneth.Revent\\Documents\\Zenith\\GlobapPayAPI\\New.FileManagement.API\\Domain\\GlobalPay.FileSystemManager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kenneth.Revent\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Domain\bin\Debug\net6.0\GlobalPay.FileSystemManager.Domain.deps.json
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Domain\bin\Debug\net6.0\GlobalPay.FileSystemManager.Domain.dll
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Domain\bin\Debug\net6.0\GlobalPay.FileSystemManager.Domain.pdb
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Domain\obj\Debug\net6.0\GlobalPay.FileSystemManager.Domain.csproj.AssemblyReference.cache
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Domain\obj\Debug\net6.0\GlobalPay.FileSystemManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Domain\obj\Debug\net6.0\GlobalPay.FileSystemManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Domain\obj\Debug\net6.0\GlobalPay.FileSystemManager.Domain.AssemblyInfo.cs
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Domain\obj\Debug\net6.0\GlobalPay.FileSystemManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Domain\obj\Debug\net6.0\GlobalPay.FileSystemManager.Domain.dll
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Domain\obj\Debug\net6.0\refint\GlobalPay.FileSystemManager.Domain.dll
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Domain\obj\Debug\net6.0\GlobalPay.FileSystemManager.Domain.pdb
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Domain\obj\Debug\net6.0\ref\GlobalPay.FileSystemManager.Domain.dll

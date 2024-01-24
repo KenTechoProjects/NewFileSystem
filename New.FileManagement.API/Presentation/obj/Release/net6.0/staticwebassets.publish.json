@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M6IRQdOxhIrrZlMCrHV2LDxVX0x9oe5O0/fs5/zzzlg=",
+  "Source": "GlobalPay.FileSystemManager.Presentation",
+  "BasePath": "_content/GlobalPay.FileSystemManager.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

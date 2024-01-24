@@ -1,0 +1,17 @@
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\bin\Debug\net6.0\GlobalPay.FileSystemManager.Persistence.deps.json
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\bin\Debug\net6.0\GlobalPay.FileSystemManager.Persistence.dll
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\bin\Debug\net6.0\GlobalPay.FileSystemManager.Persistence.pdb
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\bin\Debug\net6.0\GlobalPay.FileSystemManager.Application.dll
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\bin\Debug\net6.0\GlobalPay.FileSystemManager.Domain.dll
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\bin\Debug\net6.0\GlobalPay.FileSystemManager.Application.pdb
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\bin\Debug\net6.0\GlobalPay.FileSystemManager.Domain.pdb
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\obj\Debug\net6.0\GlobalPay.FileSystemManager.Persistence.csproj.AssemblyReference.cache
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\obj\Debug\net6.0\GlobalPay.FileSystemManager.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\obj\Debug\net6.0\GlobalPay.FileSystemManager.Persistence.AssemblyInfoInputs.cache
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\obj\Debug\net6.0\GlobalPay.FileSystemManager.Persistence.AssemblyInfo.cs
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\obj\Debug\net6.0\GlobalPay.FileSystemManager.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\obj\Debug\net6.0\GlobalPay.FileSystemManager.Persistence.csproj.CopyComplete
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\obj\Debug\net6.0\GlobalPay.FileSystemManager.Persistence.dll
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\obj\Debug\net6.0\refint\GlobalPay.FileSystemManager.Persistence.dll
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\obj\Debug\net6.0\GlobalPay.FileSystemManager.Persistence.pdb
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Persistence\obj\Debug\net6.0\ref\GlobalPay.FileSystemManager.Persistence.dll

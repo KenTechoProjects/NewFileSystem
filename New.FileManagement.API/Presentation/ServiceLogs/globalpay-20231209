@@ -1,0 +1,564 @@
+2023-12-09 15:44:57.978 +01:00 [INF] User profile is available. Using 'C:\Users\Samuel.Ndu\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-12-09 15:44:58.558 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-09 15:44:58.562 +01:00 [INF] Hosting environment: Development
+2023-12-09 15:44:58.564 +01:00 [INF] Content root path: C:\Users\Samuel.Ndu\Desktop\TemplateWebAPI\New.GlobalPayProjectTemplate\Presentation\
+2023-12-09 15:44:58.612 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/swagger/index.html - -
+2023-12-09 15:44:58.612 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:44:58.825 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:44:59.046 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:44:59.046 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:44:59.053 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:44:59.059 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:44:59.083 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:44:59.083 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:44:59.340 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:44:59.340 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:44:59.360 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 0 - - 755.2853ms
+2023-12-09 15:44:59.442 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 617.4143ms
+2023-12-09 15:44:59.744 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44333/swagger/index.html - - - 200 - text/html;charset=utf-8 1141.5895ms
+2023-12-09 15:44:59.777 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/_vs/browserLink - -
+2023-12-09 15:44:59.795 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/_framework/aspnetcore-browser-refresh.js - -
+2023-12-09 15:44:59.819 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44333/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 23.8733ms
+2023-12-09 15:44:59.895 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44333/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 119.4967ms
+2023-12-09 15:45:00.032 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/swagger/v1/swagger.json - -
+2023-12-09 15:45:00.504 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44333/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 472.0128ms
+2023-12-09 15:45:01.526 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:01.539 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:01.547 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:01.554 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:01.563 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:45:01.576 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 50.4343ms
+2023-12-09 15:45:03.607 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:03.620 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:03.624 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:03.627 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:03.630 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:45:03.634 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 27.2985ms
+2023-12-09 15:45:05.655 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:05.660 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:05.663 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:05.667 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:05.672 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:45:05.678 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 22.3685ms
+2023-12-09 15:45:07.720 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:07.724 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:07.728 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:07.732 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:07.737 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:45:07.742 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 21.9831ms
+2023-12-09 15:45:09.764 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:09.771 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:09.775 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:09.781 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:09.786 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:45:09.792 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 27.6395ms
+2023-12-09 15:45:11.806 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:11.811 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:11.816 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:11.821 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:11.824 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:45:11.829 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 22.4189ms
+2023-12-09 15:45:13.849 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:13.852 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:13.856 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:13.858 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:13.861 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:45:13.865 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 16.5611ms
+2023-12-09 15:45:15.874 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:15.878 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:15.881 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:15.883 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:15.885 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:45:15.889 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 14.5355ms
+2023-12-09 15:45:17.897 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:17.900 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:17.902 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:17.905 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:17.909 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:45:17.913 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 16.4799ms
+2023-12-09 15:45:19.925 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:19.928 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:19.931 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:19.936 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:19.940 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:45:19.943 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 18.6877ms
+2023-12-09 15:45:21.962 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:21.965 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:21.968 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:21.971 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:21.975 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:45:21.977 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 15.9575ms
+2023-12-09 15:45:23.996 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:24.000 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:24.005 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:24.009 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:24.013 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:45:24.016 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 21.8417ms
+2023-12-09 15:45:25.574 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/api/randomnumbers/get-random-number?api-version=1.0 - -
+2023-12-09 15:45:25.601 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:25.604 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:25.607 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:25.614 +01:00 [INF] Executing endpoint 'Presentation.Controllers.RandomNumbersController.GenerateToken (Presentation)'
+2023-12-09 15:45:25.647 +01:00 [INF] Route matched with {action = "GenerateToken", controller = "RandomNumbers", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateToken() on controller Presentation.Controllers.RandomNumbersController (Presentation).
+2023-12-09 15:45:29.086 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:29.089 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:29.092 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:29.937 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:30.662 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:45:31.561 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 2474.6379ms
+2023-12-09 15:45:55.253 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:45:55.263 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:45:55.265 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:45:55.267 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:45:55.268 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:46:59.706 +01:00 [INF] User profile is available. Using 'C:\Users\Samuel.Ndu\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-12-09 15:47:00.030 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-09 15:47:00.036 +01:00 [INF] Hosting environment: Development
+2023-12-09 15:47:00.040 +01:00 [INF] Content root path: C:\Users\Samuel.Ndu\Desktop\TemplateWebAPI\New.GlobalPayProjectTemplate\Presentation\
+2023-12-09 15:47:00.100 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/swagger/index.html - -
+2023-12-09 15:47:00.100 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:00.295 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:00.311 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:00.311 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:00.317 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:00.318 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:00.339 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:00.339 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:00.490 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:00.490 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:00.513 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 0 - - 421.8623ms
+2023-12-09 15:47:00.542 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 247.5240ms
+2023-12-09 15:47:00.752 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44333/swagger/index.html - - - 200 - text/html;charset=utf-8 662.6568ms
+2023-12-09 15:47:00.760 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/_framework/aspnetcore-browser-refresh.js - -
+2023-12-09 15:47:00.768 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/_vs/browserLink - -
+2023-12-09 15:47:00.790 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44333/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 19.2072ms
+2023-12-09 15:47:00.808 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44333/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 40.1789ms
+2023-12-09 15:47:00.866 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/swagger/v1/swagger.json - -
+2023-12-09 15:47:01.160 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44333/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 294.2124ms
+2023-12-09 15:47:02.620 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:02.631 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:02.635 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:02.642 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:02.648 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:02.654 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 33.8262ms
+2023-12-09 15:47:04.688 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:04.691 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:04.693 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:04.695 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:04.698 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:04.701 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 11.9277ms
+2023-12-09 15:47:06.709 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:06.714 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:06.717 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:06.719 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:06.721 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:06.723 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 14.2599ms
+2023-12-09 15:47:08.748 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:08.750 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:08.753 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:08.755 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:08.757 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:08.759 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 11.1006ms
+2023-12-09 15:47:10.769 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:10.772 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:10.774 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:10.780 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:10.783 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:10.786 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 16.6582ms
+2023-12-09 15:47:12.807 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:12.810 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:12.815 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:12.820 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:12.824 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:12.826 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 20.0851ms
+2023-12-09 15:47:14.832 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:14.836 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:14.841 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:14.845 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:14.848 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:14.851 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 19.0474ms
+2023-12-09 15:47:16.863 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:16.870 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:16.876 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:16.882 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:16.888 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:16.893 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 31.2092ms
+2023-12-09 15:47:18.917 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:18.919 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:18.922 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:18.923 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:18.925 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:18.927 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 9.9434ms
+2023-12-09 15:47:20.941 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:20.946 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:20.949 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:20.952 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:20.956 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:20.961 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 19.7891ms
+2023-12-09 15:47:22.974 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:22.977 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:22.980 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:22.982 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:22.985 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:22.987 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 13.2151ms
+2023-12-09 15:47:25.015 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:25.021 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:25.027 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:25.033 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:25.039 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:25.043 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 27.9185ms
+2023-12-09 15:47:27.055 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:27.059 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:27.061 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:27.065 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:27.066 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:27.069 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 14.1199ms
+2023-12-09 15:47:29.083 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:29.085 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:29.087 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:29.089 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:29.091 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:29.093 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 10.4001ms
+2023-12-09 15:47:31.126 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:31.131 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:31.135 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:31.138 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:31.140 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:31.145 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 18.7183ms
+2023-12-09 15:47:33.166 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:33.173 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:33.180 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:33.183 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:33.185 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:33.188 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 22.4685ms
+2023-12-09 15:47:35.212 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:35.219 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:35.225 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:35.229 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:35.232 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:35.235 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 23.3927ms
+2023-12-09 15:47:37.267 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:37.270 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:37.275 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:37.278 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:37.280 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:37.282 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 15.6286ms
+2023-12-09 15:47:39.289 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:39.296 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:39.302 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:39.306 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:39.309 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:39.311 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 23.1479ms
+2023-12-09 15:47:41.345 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:41.348 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:41.350 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:41.351 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:41.353 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:41.355 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 10.0923ms
+2023-12-09 15:47:43.367 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:43.375 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:43.381 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:43.385 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:43.391 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:43.396 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 29.1983ms
+2023-12-09 15:47:45.407 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:45.413 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:45.417 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:45.422 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:45.427 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:45.431 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 24.8067ms
+2023-12-09 15:47:47.452 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:47.455 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:47.457 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:47.459 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:47.462 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:47.465 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 12.2773ms
+2023-12-09 15:47:49.471 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:49.475 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:49.478 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:49.480 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:49.482 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:49.485 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 14.3395ms
+2023-12-09 15:47:51.505 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:51.508 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:51.512 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:51.513 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:51.516 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:51.518 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 12.7008ms
+2023-12-09 15:47:53.527 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:53.529 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:53.531 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:53.533 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:53.535 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:53.537 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 10.6617ms
+2023-12-09 15:47:55.546 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:55.549 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:55.551 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:55.553 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:55.555 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:55.558 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 11.6709ms
+2023-12-09 15:47:57.565 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:57.568 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:57.573 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:57.575 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:57.577 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:57.579 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 14.9381ms
+2023-12-09 15:47:59.593 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:47:59.595 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:47:59.597 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:47:59.600 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:47:59.605 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:47:59.609 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 16.0753ms
+2023-12-09 15:48:01.616 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:01.621 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:01.625 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:01.629 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:01.632 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:01.634 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 17.9283ms
+2023-12-09 15:48:03.651 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:03.655 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:03.659 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:03.660 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:03.663 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:03.666 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 14.6169ms
+2023-12-09 15:48:05.674 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:05.688 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:05.690 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:05.693 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:05.696 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:05.698 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 24.3830ms
+2023-12-09 15:48:07.715 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:07.718 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:07.721 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:07.724 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:07.726 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:07.729 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 14.1922ms
+2023-12-09 15:48:09.737 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:09.740 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:09.744 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:09.746 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:09.749 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:09.751 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 13.9087ms
+2023-12-09 15:48:11.761 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:11.763 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:11.765 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:11.767 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:11.769 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:11.771 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 9.3966ms
+2023-12-09 15:48:13.774 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:13.778 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:13.781 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:13.784 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:13.787 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:13.792 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 17.2876ms
+2023-12-09 15:48:15.811 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:15.813 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:15.815 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:15.817 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:15.819 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:15.822 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 11.0842ms
+2023-12-09 15:48:17.838 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:17.843 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:17.847 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:17.849 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:17.852 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:17.855 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 16.8579ms
+2023-12-09 15:48:19.865 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:19.869 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:19.872 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:19.874 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:19.876 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:19.879 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 13.9070ms
+2023-12-09 15:48:21.901 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:21.905 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:21.909 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:21.912 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:21.916 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:21.921 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 19.4524ms
+2023-12-09 15:48:23.932 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:23.934 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:23.937 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:23.938 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:23.940 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:23.942 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 10.6000ms
+2023-12-09 15:48:25.956 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:25.960 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:25.963 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:25.966 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:25.969 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:25.971 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 15.9149ms
+2023-12-09 15:48:27.991 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:27.994 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:27.997 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:27.999 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:28.001 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:28.004 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 12.8518ms
+2023-12-09 15:48:30.024 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:30.027 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:30.031 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:30.034 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:30.037 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:30.040 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 16.6772ms
+2023-12-09 15:48:32.049 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:32.052 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:32.055 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:32.057 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:32.060 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:32.062 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 13.2810ms
+2023-12-09 15:48:34.085 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:34.090 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:34.094 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:34.097 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:34.099 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:34.102 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 17.5073ms
+2023-12-09 15:48:36.123 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:36.129 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:36.133 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:36.136 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:36.139 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:36.141 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 18.4025ms
+2023-12-09 15:48:37.155 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/api/randomnumbers/query-single-transaction/5609715753931993746?api-version=1.0 - -
+2023-12-09 15:48:37.179 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:37.182 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:37.191 +01:00 [INF] Executing endpoint 'Presentation.Controllers.RandomNumbersController.QuerySingleTransaction (Presentation)'
+2023-12-09 15:48:37.245 +01:00 [INF] Route matched with {action = "QuerySingleTransaction", controller = "RandomNumbers", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] QuerySingleTransaction(System.String) on controller Presentation.Controllers.RandomNumbersController (Presentation).
+2023-12-09 15:48:44.498 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:48:44.502 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:48:44.505 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:48:46.260 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:48:46.263 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:48:46.988 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 2489.3163ms
+2023-12-09 15:49:00.952 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:49:18.289 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:49:18.295 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:49:18.299 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:49:18.302 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:49:18.304 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 0 - - 17352.2275ms
+2023-12-09 15:49:55.257 +01:00 [INF] Start processing HTTP request GET "https://newwebservicetest.zenithbank.com:8443/new-globalpay-payment-gateway/api/paymentgateway/query-single-transaction/5609715753931993746"
+2023-12-09 15:49:55.263 +01:00 [INF] Sending HTTP request GET "https://newwebservicetest.zenithbank.com:8443/new-globalpay-payment-gateway/api/paymentgateway/query-single-transaction/5609715753931993746"
+2023-12-09 15:49:57.287 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:49:57.289 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:49:57.292 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:49:57.294 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:49:57.296 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:49:57.298 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 10.3645ms
+2023-12-09 15:49:59.309 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:49:59.312 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:49:59.315 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:49:59.317 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:49:59.320 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:49:59.323 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 14.2110ms
+2023-12-09 15:49:59.724 +01:00 [INF] Received HTTP response headers after 4456.0438ms - 500
+2023-12-09 15:49:59.729 +01:00 [INF] End processing HTTP request after 4475.6344ms - 500
+2023-12-09 15:57:30.663 +01:00 [INF] User profile is available. Using 'C:\Users\Samuel.Ndu\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-12-09 15:57:30.970 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-09 15:57:30.973 +01:00 [INF] Hosting environment: Development
+2023-12-09 15:57:30.977 +01:00 [INF] Content root path: C:\Users\Samuel.Ndu\Desktop\TemplateWebAPI\New.GlobalPayProjectTemplate\Presentation\
+2023-12-09 15:57:31.043 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:31.043 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/swagger/index.html - -
+2023-12-09 15:57:31.147 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:31.266 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:31.266 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:31.271 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:31.275 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:31.308 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:31.308 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:31.469 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:31.469 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:31.487 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 0 - - 452.9185ms
+2023-12-09 15:57:31.536 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 388.7752ms
+2023-12-09 15:57:31.693 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44333/swagger/index.html - - - 200 - text/html;charset=utf-8 661.6581ms
+2023-12-09 15:57:31.707 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/_framework/aspnetcore-browser-refresh.js - -
+2023-12-09 15:57:31.718 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/_vs/browserLink - -
+2023-12-09 15:57:31.724 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44333/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 15.8511ms
+2023-12-09 15:57:31.755 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44333/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 36.3673ms
+2023-12-09 15:57:31.890 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/swagger/v1/swagger.json - -
+2023-12-09 15:57:32.132 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44333/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 241.8980ms
+2023-12-09 15:57:33.590 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:33.600 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:33.606 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:33.614 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:33.623 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:33.627 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 37.4871ms
+2023-12-09 15:57:35.650 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:35.653 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:35.654 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:35.656 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:35.658 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:35.660 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 10.7207ms
+2023-12-09 15:57:37.681 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:37.687 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:37.691 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:37.694 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:37.697 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:37.700 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 19.7549ms
+2023-12-09 15:57:39.721 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:39.724 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:39.727 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:39.730 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:39.732 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:39.735 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 13.5136ms
+2023-12-09 15:57:41.749 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:41.754 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:41.758 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:41.761 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:41.766 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:41.770 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 20.5705ms
+2023-12-09 15:57:43.787 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:43.791 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:43.794 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:43.796 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:43.798 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:43.800 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 13.4000ms
+2023-12-09 15:57:45.816 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:45.822 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:45.825 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:45.828 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:45.830 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:45.834 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 17.8562ms
+2023-12-09 15:57:47.855 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:47.862 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:47.868 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:47.870 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:47.872 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:47.875 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 20.6760ms
+2023-12-09 15:57:49.893 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:49.898 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:49.902 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:49.907 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:49.912 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:49.917 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 23.5573ms
+2023-12-09 15:57:51.939 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:51.944 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:51.947 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:51.950 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:51.954 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:51.958 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 19.3585ms
+2023-12-09 15:57:53.979 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:53.982 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:53.984 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:53.986 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:53.987 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:53.989 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 10.0943ms
+2023-12-09 15:57:54.701 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44333/api/randomnumbers/query-single-transaction/5609715753931993746?api-version=1.0 - -
+2023-12-09 15:57:54.724 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:54.729 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:54.733 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:54.739 +01:00 [INF] Executing endpoint 'Presentation.Controllers.RandomNumbersController.QuerySingleTransaction (Presentation)'
+2023-12-09 15:57:54.774 +01:00 [INF] Route matched with {action = "QuerySingleTransaction", controller = "RandomNumbers", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] QuerySingleTransaction(System.String) on controller Presentation.Controllers.RandomNumbersController (Presentation).
+2023-12-09 15:57:57.387 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:57:57.390 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:57:58.694 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:57:58.706 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:57:59.263 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:57:59.275 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 1887.9787ms
+2023-12-09 15:58:02.971 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:44333/ - -
+2023-12-09 15:58:03.869 +01:00 [WRN] No bundle file found for language - en. file location - C:\LanguagePack\en.json
+2023-12-09 15:58:04.573 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2023-12-09 15:58:04.576 +01:00 [INF] No cached response available for this request.
+2023-12-09 15:58:05.623 +01:00 [INF] The response could not be cached for this request.
+2023-12-09 15:58:05.625 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:44333/ - - - 404 - - 2653.9542ms
+2023-12-09 15:58:05.633 +01:00 [INF] Start processing HTTP request GET "https://newwebservicetest.zenithbank.com:8443/new-globalpay-payment-gateway/api/paymentgateway/query-single-transaction/5609715753931993746"
+2023-12-09 15:58:05.639 +01:00 [INF] Sending HTTP request GET "https://newwebservicetest.zenithbank.com:8443/new-globalpay-payment-gateway/api/paymentgateway/query-single-transaction/5609715753931993746"
+2023-12-09 15:58:05.924 +01:00 [INF] Received HTTP response headers after 278.884ms - 500
+2023-12-09 15:58:05.929 +01:00 [INF] End processing HTTP request after 300.7401ms - 500

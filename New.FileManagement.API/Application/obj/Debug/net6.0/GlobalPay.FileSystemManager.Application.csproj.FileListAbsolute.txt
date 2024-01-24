@@ -1,0 +1,17 @@
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\bin\Debug\net6.0\GlobalPay.FileSystemManager.Application.deps.json
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\bin\Debug\net6.0\GlobalPay.FileSystemManager.Application.runtimeconfig.json
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\bin\Debug\net6.0\GlobalPay.FileSystemManager.Application.dll
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\bin\Debug\net6.0\GlobalPay.FileSystemManager.Application.pdb
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\bin\Debug\net6.0\GlobalPay.FileSystemManager.Domain.dll
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\bin\Debug\net6.0\GlobalPay.FileSystemManager.Domain.pdb
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\obj\Debug\net6.0\GlobalPay.FileSystemManager.Application.csproj.AssemblyReference.cache
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\obj\Debug\net6.0\GlobalPay.FileSystemManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\obj\Debug\net6.0\GlobalPay.FileSystemManager.Application.AssemblyInfoInputs.cache
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\obj\Debug\net6.0\GlobalPay.FileSystemManager.Application.AssemblyInfo.cs
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\obj\Debug\net6.0\GlobalPay.FileSystemManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\obj\Debug\net6.0\GlobalPay.FileSystemManager.Application.csproj.CopyComplete
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\obj\Debug\net6.0\GlobalPay.FileSystemManager.Application.dll
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\obj\Debug\net6.0\refint\GlobalPay.FileSystemManager.Application.dll
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\obj\Debug\net6.0\GlobalPay.FileSystemManager.Application.pdb
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\obj\Debug\net6.0\GlobalPay.FileSystemManager.Application.genruntimeconfig.cache
+C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Application\obj\Debug\net6.0\ref\GlobalPay.FileSystemManager.Application.dll

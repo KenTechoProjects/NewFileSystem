@@ -1,0 +1,67 @@
+2024-01-23 13:27:53.128 +01:00 [INF] Now listening on: https://localhost:7102
+2024-01-23 13:27:53.288 +01:00 [INF] Now listening on: http://localhost:5102
+2024-01-23 13:27:53.293 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-23 13:27:53.297 +01:00 [INF] Hosting environment: Development
+2024-01-23 13:27:53.301 +01:00 [INF] Content root path: C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Presentation\
+2024-01-23 13:27:56.020 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7102/swagger/index.html - -
+2024-01-23 13:27:56.642 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7102/swagger/index.html - - - 200 - text/html;charset=utf-8 621.1791ms
+2024-01-23 13:27:56.713 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7102/_vs/browserLink - -
+2024-01-23 13:27:56.715 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7102/_framework/aspnetcore-browser-refresh.js - -
+2024-01-23 13:27:56.786 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7102/_framework/aspnetcore-browser-refresh.js - - - 200 12050 application/javascript;+charset=utf-8 70.9996ms
+2024-01-23 13:27:56.814 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7102/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 100.4595ms
+2024-01-23 13:27:56.903 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7102/swagger/v1/swagger.json - -
+2024-01-23 13:27:57.069 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7102/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 166.0232ms
+2024-01-23 13:30:44.749 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7102/api/filemanagement/uploadfile?category=Logo&merchantname=The%20Man%20in%20the%20House&api-version=1.0 multipart/form-data;+boundary=----WebKitFormBoundaryMzSflOFwTpife2BZ 166105
+2024-01-23 13:30:45.147 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2024-01-23 13:30:45.155 +01:00 [INF] CORS policy execution successful.
+2024-01-23 13:30:45.202 +01:00 [INF] Executing endpoint 'GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation)'
+2024-01-23 13:30:45.237 +01:00 [INF] Route matched with {area = "FileManagement", action = "UploadFile", controller = "ImageManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadFile(GlobalPay.FileSystemManager.Application.Common.Enums.FileCategory, System.String, Microsoft.AspNetCore.Http.IFormFile) on controller GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController (GlobalPay.FileSystemManager.Presentation).
+2024-01-23 13:30:45.450 +01:00 [INF] Executing action method GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation) - Validation state: "Valid"
+2024-01-23 13:30:49.154 +01:00 [INF] Executed action method GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 3691.988ms.
+2024-01-23 13:30:49.187 +01:00 [INF] Executing OkObjectResult, writing value of type 'Application.Common.Models.ServerResponses`1[[GlobalPay.FileSystemManager.Application.Common.DTOs.SaveImageResponse, GlobalPay.FileSystemManager.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-23 13:30:49.279 +01:00 [INF] Executed action GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation) in 4033.385ms
+2024-01-23 13:30:49.284 +01:00 [INF] Executed endpoint 'GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation)'
+2024-01-23 13:30:49.319 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7102/api/filemanagement/uploadfile?category=Logo&merchantname=The%20Man%20in%20the%20House&api-version=1.0 multipart/form-data;+boundary=----WebKitFormBoundaryMzSflOFwTpife2BZ 166105 - 200 344 application/json;+charset=utf-8 4570.0022ms
+2024-01-23 13:32:11.889 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7102/swagger/index.html - -
+2024-01-23 13:32:11.909 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7102/swagger/index.html - - - 200 - text/html;charset=utf-8 20.2896ms
+2024-01-23 13:32:11.941 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7102/_framework/aspnetcore-browser-refresh.js - -
+2024-01-23 13:32:11.942 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7102/_vs/browserLink - -
+2024-01-23 13:32:11.947 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7102/_framework/aspnetcore-browser-refresh.js - - - 200 12050 application/javascript;+charset=utf-8 6.6384ms
+2024-01-23 13:32:12.093 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7102/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 151.4207ms
+2024-01-23 13:32:12.193 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7102/swagger/v1/swagger.json - -
+2024-01-23 13:32:12.201 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7102/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 7.9245ms
+2024-01-23 13:32:45.114 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7102/api/filemanagement/uploadfile?category=Logo&merchantname=The%20man%20I%20know&api-version=1.0 multipart/form-data;+boundary=----WebKitFormBoundaryn4PMX1BYT9CyDzlW 166105
+2024-01-23 13:32:45.146 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2024-01-23 13:32:45.150 +01:00 [INF] CORS policy execution successful.
+2024-01-23 13:32:45.154 +01:00 [INF] Executing endpoint 'GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation)'
+2024-01-23 13:32:45.160 +01:00 [INF] Route matched with {area = "FileManagement", action = "UploadFile", controller = "ImageManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadFile(GlobalPay.FileSystemManager.Application.Common.Enums.FileCategory, System.String, Microsoft.AspNetCore.Http.IFormFile) on controller GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController (GlobalPay.FileSystemManager.Presentation).
+2024-01-23 13:32:45.226 +01:00 [INF] Executing action method GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation) - Validation state: "Valid"
+2024-01-23 13:32:48.462 +01:00 [INF] Executed action method GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 3229.6729ms.
+2024-01-23 13:32:48.492 +01:00 [INF] Executing OkObjectResult, writing value of type 'Application.Common.Models.ServerResponses`1[[GlobalPay.FileSystemManager.Application.Common.DTOs.SaveImageResponse, GlobalPay.FileSystemManager.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-23 13:32:48.498 +01:00 [INF] Executed action GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation) in 3332.1146ms
+2024-01-23 13:32:48.503 +01:00 [INF] Executed endpoint 'GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation)'
+2024-01-23 13:32:48.522 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7102/api/filemanagement/uploadfile?category=Logo&merchantname=The%20man%20I%20know&api-version=1.0 multipart/form-data;+boundary=----WebKitFormBoundaryn4PMX1BYT9CyDzlW 166105 - 200 332 application/json;+charset=utf-8 3407.8987ms
+2024-01-23 14:35:04.272 +01:00 [INF] Now listening on: https://localhost:7102
+2024-01-23 14:35:04.317 +01:00 [INF] Now listening on: http://localhost:5102
+2024-01-23 14:35:04.324 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-23 14:35:04.328 +01:00 [INF] Hosting environment: Development
+2024-01-23 14:35:04.331 +01:00 [INF] Content root path: C:\Users\Kenneth.Revent\Documents\Zenith\GlobapPayAPI\New.FileManagement.API\Presentation\
+2024-01-23 14:35:06.864 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7102/swagger/index.html - -
+2024-01-23 14:35:07.404 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7102/swagger/index.html - - - 200 - text/html;charset=utf-8 542.0578ms
+2024-01-23 14:35:07.461 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7102/_vs/browserLink - -
+2024-01-23 14:35:07.461 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7102/_framework/aspnetcore-browser-refresh.js - -
+2024-01-23 14:35:07.472 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7102/_framework/aspnetcore-browser-refresh.js - - - 200 12050 application/javascript;+charset=utf-8 10.8565ms
+2024-01-23 14:35:07.501 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7102/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 39.7770ms
+2024-01-23 14:35:07.578 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7102/swagger/v1/swagger.json - -
+2024-01-23 14:35:07.746 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7102/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 167.8909ms
+2024-01-23 14:36:44.093 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7102/api/filemanagement/uploadfile?category=Logo&merchantname=The%20Ok&api-version=1.0 multipart/form-data;+boundary=----WebKitFormBoundary7Bqq2Aq1utGPl4RX 65864
+2024-01-23 14:36:44.348 +01:00 [WRN] No bundle file found for language - fr. file location - C:\LanguagePack\fr.json
+2024-01-23 14:36:44.357 +01:00 [INF] CORS policy execution successful.
+2024-01-23 14:36:44.400 +01:00 [INF] Executing endpoint 'GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation)'
+2024-01-23 14:36:44.426 +01:00 [INF] Route matched with {area = "FileManagement", action = "UploadFile", controller = "ImageManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadFile(GlobalPay.FileSystemManager.Application.Common.Enums.FileCategory, System.String, Microsoft.AspNetCore.Http.IFormFile) on controller GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController (GlobalPay.FileSystemManager.Presentation).
+2024-01-23 14:36:44.611 +01:00 [INF] Executing action method GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation) - Validation state: "Valid"
+2024-01-23 14:37:38.854 +01:00 [INF] Executed action method GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 54215.7907ms.
+2024-01-23 14:37:38.869 +01:00 [INF] Executing OkObjectResult, writing value of type 'Application.Common.Models.ServerResponses`1[[GlobalPay.FileSystemManager.Application.Common.DTOs.SaveImageResponse, GlobalPay.FileSystemManager.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-23 14:37:38.952 +01:00 [INF] Executed action GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation) in 54517.1217ms
+2024-01-23 14:37:38.967 +01:00 [INF] Executed endpoint 'GlobalPay.FileSystemManager.Presentation.Areas.FileManagement.ImageManagementController.UploadFile (GlobalPay.FileSystemManager.Presentation)'
+2024-01-23 14:37:39.001 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7102/api/filemanagement/uploadfile?category=Logo&merchantname=The%20Ok&api-version=1.0 multipart/form-data;+boundary=----WebKitFormBoundary7Bqq2Aq1utGPl4RX 65864 - 200 276 application/json;+charset=utf-8 54908.2230ms
